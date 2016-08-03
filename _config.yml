@@ -1,19 +1,4 @@
-name: Sharkcomm
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.42529623094014823
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#98b7ff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6630056011490524
   saturation: 0.0625
   rhythmicContrast: 0.1635245664510876
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sharkcomm
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Welcome to Shark.
 purpose: []
